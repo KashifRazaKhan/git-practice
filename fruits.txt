@@ -9,3 +9,4 @@ Grapefruit
 Guava
 Dragonfruit
 Elderberry
+Figs
